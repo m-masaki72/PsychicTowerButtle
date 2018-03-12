@@ -39,3 +39,4 @@ clearTimeout(timer);
         resize();
     }, 200);
 };
+);
